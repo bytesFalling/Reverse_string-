@@ -1,5 +1,5 @@
 
 def main():
     strings= str ( input ( "Enter the string: "))
-    print ( strings [len(strings)::-1])
+    print ( [len(strings)::-1])
 main()
